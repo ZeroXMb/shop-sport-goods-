@@ -32,6 +32,12 @@
 			"name": "protein",
 			"photo_url": "https://add-power.ua/image/cache/catalog/Optimum%20Nutrition/5046-thickbox_default-700x700.jpg",
 			"price": "130$"
+		},
+		{
+			"id": 2,
+			"name": "bicycle",
+			"photo_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.choosemybicycle.com%2Fen%2Fwoc%2Fexpert-reviews%2Ftoronto-m30-29-review&psig=AOvVaw3v4CVv-yu4KCHRHhoMfdCe&ust=1702827634015000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCQrLillIMDFQAAAAAdAAAAABAD",
+			"price": "200$"
 		}
 	]
 }
