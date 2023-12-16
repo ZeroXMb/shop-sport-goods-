@@ -13,6 +13,13 @@
 			"balance": "1500"
 		},
 		{
+		    "id": 3,
+			"name": "Vladislav",
+			"surname": "Poliscshuk",
+			"balance": "100"
+
+		},
+		{
 			"id": 4,
 			"name": "Nazar",
 			"surname": "Shnaider",
