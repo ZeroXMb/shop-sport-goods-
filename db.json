@@ -25,5 +25,13 @@
 			"surname": "Shnaider",
 			"balance":"1500"
 		}
+	],
+	"products": [
+		{
+			"id": 1,
+			"name": "protein",
+			"photo_url": "https://add-power.ua/image/cache/catalog/Optimum%20Nutrition/5046-thickbox_default-700x700.jpg",
+			"price": "130$"
+		}
 	]
 }
