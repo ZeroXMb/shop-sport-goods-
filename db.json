@@ -1,18 +1,29 @@
 {
 	"users": [
 		{
-<<<<<<< HEAD
+			"id": 1,
+			"name": "Bohdan",
+			"surname": "Matushko",
+			"balance": "1"
+		},
+		{
 			"id":2,
 			"name": "nazar",
 			"surname": "palaskevich",
 			"balance": "1500"
-=======
-			"id": 1,
-			"name": "Bohdan",
-			"surname": "Matushko",
-			"balance": "10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+		},
+		{
+		    "id": 3,
+			"name": "Vladislav",
+			"surname": "Poliscshuk",
+			"balance": "100"
 
->>>>>>> 4c59696783a20502f5339041341902f27fdc954b
+		},
+		{
+			"id": 4,
+			"name": "Nazar",
+			"surname": "Shnaider",
+			"balance":"1500"
 		}
 	],
 	"products": [
