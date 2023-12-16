@@ -38,6 +38,12 @@
 			"name": "bicycle",
 			"photo_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.choosemybicycle.com%2Fen%2Fwoc%2Fexpert-reviews%2Ftoronto-m30-29-review&psig=AOvVaw3v4CVv-yu4KCHRHhoMfdCe&ust=1702827634015000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCQrLillIMDFQAAAAAdAAAAABAD",
 			"price": "200$"
+		},
+		{
+			"id": 3,
+			"name": "creatine",
+			"photo_url": "https://ironadmin.ariesdev.kz/storage/products/Fm4DhJCtKuLnIUmrOjfvsjGn0ej5kuLxRAUTbtFS.png",
+			"price": "2000$"
 		}
 	]
 }
