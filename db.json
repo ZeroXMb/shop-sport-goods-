@@ -1,5 +1,10 @@
 {
 	"users": [
-		
+		{
+			"id":2,
+			"name": "nazar",
+			"surname": "palaskevich",
+			"balance": "1500"
+		}
 	]
 }
