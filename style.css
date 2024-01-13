@@ -1,0 +1,22 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	display: flex;
+	justify-content: center;
+	align-content: center;
+	min-height: 100vh;
+	background: url(https://kartinki.pics/uploads/posts/2021-04/thumbs/1617585011_20-p-fon-dlya-saita-temnii-20.jpg);
+	background-size: cover;
+}
+
+.box {
+	position: relative;
+	width: 200px;
+	height: 300px;
+	transform-style: preserve-3d;
+	animation: animate 20s linear infinite;
+}
