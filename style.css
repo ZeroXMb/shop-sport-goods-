@@ -1,6 +1,6 @@
 *{
 	margin: 0;
-	padding: 0;
+	padding: 35px;
 	box-sizing: border-box;
 }
 
@@ -18,7 +18,7 @@ body{
 	width: 200px;
 	height: 300px;
 	transform-style: preserve-3d;
-	animation: animate 20s linear infinite;
+	animation: animate 50s linear infinite;
 }
 @keyframes animate {
 	0% {
