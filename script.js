@@ -39,8 +39,20 @@ let cartProd = document.getElementByld('cart-products');
 
 let cart = [];
 if (localStorage.getItem('cart')) {
-	cart = json.parse(localStorage.getItem('cart'));
+	cart = JSON.parse(localStorage.getItem('cart'));
 	drawCartProducts();
+}
+function addProductToCart(id) {
+	let products = productsArray.find(function(p) {
+		return p.id == id;
+})
+	cart.push(product);
+	drawCartProducts();
+	localStorage.setItem("cart", JSON.stringify(cart));
+	document.getElementByld('cart-button').classLIst.add('active');
+	setTimeout(function(){
+		document.getElementByld('cart-button').classLIst.remove('active');
+	},500);
 }
 function drawCartProducts() {
 	if (cart.lenght === 0) return cartProd.innerHTML = 'Cart is empty';
@@ -53,7 +65,7 @@ function drawCartProducts() {
 	})
 }
 function drawCartProducts() {
-	if(cart.lenght === 0) return cartprod.innerHTML = 'Cart is empy';
+	if(cart.lenght === 0) return cartProd.innerHTML = 'Cart is empy';
 	cartProd.innerHTML = null;
 	let sum = 0;
 	cart.forEach(function(p){
