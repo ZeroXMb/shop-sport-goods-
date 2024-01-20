@@ -30,26 +30,51 @@
 		{
 			"id": 1,
 			"name": "protein",
-			"photo_url": "https://add-power.ua/image/cache/catalog/Optimum%20Nutrition/5046-thickbox_default-700x700.jpg",
-			"price": "130$"
-		},
-		{
-			"id": 2,
-			"name": "bicycle",
-			"photo_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.choosemybicycle.com%2Fen%2Fwoc%2Fexpert-reviews%2Ftoronto-m30-29-review&psig=AOvVaw3v4CVv-yu4KCHRHhoMfdCe&ust=1702827634015000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCQrLillIMDFQAAAAAdAAAAABAD",
-			"price": "200$"
+			"photo_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fmusclestore.com.ua%2Fprotein%2F&psig=AOvVaw3VY5WF3YoaMgjEkQTJpx5u&ust=1705245182148000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCV1MDT2oMDFQAAAAAdAAAAABAE",
+			"price": "72,92$"
 		},
 		{
 			"id": 3,
 			"name": "creatine",
-			"photo_url": "https://ironadmin.ariesdev.kz/storage/products/Fm4DhJCtKuLnIUmrOjfvsjGn0ej5kuLxRAUTbtFS.png",
-			"price": "2000$"
+			"photo_url": "https://hotline.ua/img/tx/269/2690914875.jpg",
+			"price": "14,95$"
 		},
 		{
 			"id": 4,
 			"name": "amiak",
 			"photo_url": "https://m.apteka911.ua/content/shop/products/20/ammiaka-r-r-nashatyirnyiy-spirt-10-fl-40ml-tov-dkp-farmatsevticheskaya-fabrika-big-800x800-5680.jpg",
-			"price": "300$"
+			"price": "0,53$"
+		},
+		{
+			"id": 2,
+			"name": "bicycle",
+			"photo_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Frozetka.com.ua%2F369393723%2Fp369393723%2F&psig=AOvVaw364v4k22c7SJLPjydbLqs4&ust=1705243939721000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCAwfDO2oMDFQAAAAAdAAAAABAH",
+			"price": "476,25$"
+		},
+		{
+			"id":5,
+			"name": "dumbbells",
+			"photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP6Dshz-MxGSJKvyEzibK_qlpQLx8G2NKs9i9K19VUSDY60SL1PupIs6Ras0bw9Y8Msbc&usqp=CAU" ,
+			"price":"158,75$" 
+		},
+		{
+			"id":6,
+			"name": "expander",
+			"photo_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fkasta.ua%2Fuk%2Fproduct%2F15762107%3A702%2F&psig=AOvVaw1lp9ESuIzdhYysMFP9jIR7&ust=1705244419471000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDzs9TQ2oMDFQAAAAAdAAAAABAD" ,
+			"price":"10,99$" 
+		},
+		{
+			"id":7,
+			"name": "sports shaker",
+			"photo_url": "https://f.428.ua/img/3425885/600/600/sportivnyy_sheyker_smartshake_revive_25oz_750ml_black~432~944.jpg" ,
+			"price":"10,32$" 
+		},
+		{
+			"id": 8,
+			"name": "magnesia is liquid",
+			"photo_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftakberu.com.ua%2Fua%2Fmagneziya-zhidkaya-sportivnaya-sport-lavit-super-grip-75-ml-77347%2F&psig=AOvVaw18wkP_cRpUTNHCfFI_BQAX&ust=1705245363715000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKj8_5jU2oMDFQAAAAAdAAAAABAM",
+			"price": "9,99$"
 		}
+
 	]
 }
